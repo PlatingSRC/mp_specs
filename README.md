@@ -1,6 +1,10 @@
-## README.txt
+## README.md
 
-This repository provides open access to a growing library of documents and white papers developed by PlatingSRC, the marketing group for Dyna Burr Chicago Inc. We created this space so technical teams, buyers, engineers, and operations leaders can reach proven insights without friction. Everything here is free to view and download. The intent is to make reliable manufacturing knowledge easier to share and easier to apply.
+This repository offers open access to a growing library of documents and white papers developed by PlatingSRC, the marketing group for Dyna Burr Chicago Inc. Think of us as the mechanical cold plating service that understands your requirements even when you are still wrestling with them. That is especially true for teams managing a new program or a demanding print for the first time. Since 1968, we have taken pride in being the supply chain partner that understands results and delivers them without excuses.
+
+We support your throughput with a standard turnaround of fourteen calendar days. Work is completed to specification. Pricing is fair and grounded in real value. For urgent programs, an express shipping option provides a seven day turnaround.
+
+We created this space so technical teams, buyers, engineers, and operations leaders can reach proven insights without friction. Everything here is free to view and download. The intent is to make reliable manufacturing knowledge easier to share and easier to apply.
 
 The materials cover a range of topics tied to plating, finishing, and production performance. Some pieces speak to process control. Others examine industry trends or offer straightforward guidance for teams that want to tighten their workflow. The goal is clarity supported by experience. Each document reflects the same care we bring to our client work.
 
