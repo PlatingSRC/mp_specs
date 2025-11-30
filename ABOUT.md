@@ -1,3 +1,5 @@
+## ABOUT.md
+
 Dyna-Burr is a finishing partner for high-volume OEM and component manufacturers, not a consumer-facing shop. Its primary industries are automotive, construction, marine, agriculture, electronics, and appliance, all centered around fasteners and small metal parts that need mechanical zinc or zinc-alloy coatings and related finishes.[1][2][4]
 
 ## Primary industries
