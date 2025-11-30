@@ -11,5 +11,5 @@ https://www.prlog.org/13108945-due-date-performance-matters-especially-dealing-w
 Eliminate the Risk of Hydrogen Embrittlement; Oct. 29, 2025 - PRLog<br>
 https://www.prlog.org/13107504-new-white-paper-eliminate-the-risk-of-hydrogen-embrittlement.html
 
-New Ownership; News Release; Oct. 20, 2025 - PRLog<br>
+New Ownership; Oct. 20, 2025 - PRLog<br>
 https://www.prlog.org/13106046-capacity-crunch-for-cold-plating-not-anymore.html 
