@@ -13,5 +13,3 @@ https://www.prlog.org/13107504-new-white-paper-eliminate-the-risk-of-hydrogen-em
 
 New Ownership; Oct. 20, 2025 - PRLog<br>
 https://www.prlog.org/13106046-capacity-crunch-for-cold-plating-not-anymore.html 
-
-*Source: Perplexity AI*
