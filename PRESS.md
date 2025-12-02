@@ -2,8 +2,11 @@
 
 **PlatingSRC | Dyna-Burr Chicago Inc.**
 
+Quiet Force Behind America's OEM Supply Chains; Dec. 2, 2025 - PRLog<br>
+https://www.prlog.org/13114266-dyna-burr-chicago-inc-quiet-force-behind-americas-oem-supply-chains.html
+
 RoHS Compliance Matters; Nov. 18, 2025 - PRLog<br>
-https://www.prlog.org/13111721-dismissing-rohs-as-checkbox-invites-trouble.html#
+https://www.prlog.org/13111721-dismissing-rohs-as-checkbox-invites-trouble.html
 
 Due Date Performance Matters; Nov. 5, 2025 - PRLog<br>
 https://www.prlog.org/13108945-due-date-performance-matters-especially-dealing-with-suppliers.html
